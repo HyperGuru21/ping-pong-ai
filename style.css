@@ -1,0 +1,8 @@
+.heading{
+    width: 100%;
+}
+.heading button{
+    float: right;
+    color: black;
+    border: 1px solid black;
+}
